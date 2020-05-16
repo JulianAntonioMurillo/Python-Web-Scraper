@@ -1,4 +1,4 @@
-#Web scraper because I'm bored
+# WebScrape hardware site...
 
 # Import Libraries
 from urllib.request import urlopen as uReq
